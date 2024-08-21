@@ -124,5 +124,35 @@
       "November": {"high": 69, "low": 51},
       "December": {"high": 63, "low": 45}
     }
+    ,
+    "Barcelona": {
+      "January": {"high": 58, "low": 44},
+      "February": {"high": 59, "low": 45},
+      "March": {"high": 62, "low": 48},
+      "April": {"high": 65, "low": 51},
+      "May": {"high": 70, "low": 56},
+      "June": {"high": 77, "low": 63},
+      "July": {"high": 83, "low": 68},
+      "August": {"high": 83, "low": 68},
+      "September": {"high": 79, "low": 65},
+      "October": {"high": 72, "low": 58},
+      "November": {"high": 64, "low": 51},
+      "December": {"high": 59, "low": 46}
+    }
+    ,
+    "Madrid": {
+      "January": {"high": 50, "low": 32},
+      "February": {"high": 54, "low": 34},
+      "March": {"high": 59, "low": 38},
+      "April": {"high": 63, "low": 42},
+      "May": {"high": 71, "low": 49},
+      "June": {"high": 82, "low": 57},
+      "July": {"high": 91, "low": 63},
+      "August": {"high": 90, "low": 63},
+      "September": {"high": 82, "low": 56},
+      "October": {"high": 71, "low": 48},
+      "November": {"high": 58, "low": 39},
+      "December": {"high": 51, "low": 33}
+    }
   }
 }
